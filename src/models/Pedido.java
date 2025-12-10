@@ -4,6 +4,7 @@ import java.beans.PropertyChangeSupport;
 import java.math.BigDecimal;
 import java.sql.Timestamp;
 
+3 zenbakia aldaketa
 /**
  * Clase que contiene los atributos de un Pedido.
  * @author Alejandro Escobedo
