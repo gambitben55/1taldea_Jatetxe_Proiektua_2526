@@ -3,7 +3,7 @@ package models;
 import java.awt.Image;
 import java.beans.PropertyChangeSupport;
 import java.math.BigDecimal;
-
+2zenbakiaren aldaketa
 /**
  * Clase que contiene los atributos de un Receta.
  * @author Alejandro Escobedo
