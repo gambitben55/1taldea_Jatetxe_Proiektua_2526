@@ -13,7 +13,7 @@ public class Login extends BaseFrame {
     private String pass;
     
     /**
-     * Creates new form Login
+     * Creates new form Login  4.zenbakia hemen egon da
      */
     public Login() {
         initComponents();
